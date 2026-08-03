@@ -1,4 +1,6 @@
 Hola a todos buenas tardes :)
 
+Os dejo información general acerca de este repositorio:
+
 En la carpeta de Diego Cardona, 21933 se encuentra el código del maestro junto con sus librerías (UART & SPI)
 En la carpeta de Cristian Juárez, 22478 se encuentra el código del ESCLAVO junto con sus librerías (ADC & SPI)
